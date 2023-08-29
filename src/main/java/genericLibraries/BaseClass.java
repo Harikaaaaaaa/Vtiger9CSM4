@@ -21,7 +21,7 @@ import pompages.NewEventInfoPage;
 import pompages.NewLeadInfoPage;
 import pompages.NewOrgInfoPage;
 import pompages.OrganizationPage;
-
+//his is an example for baseclass operation
 public class BaseClass
 {
 	 protected PropertiesUtility property;
